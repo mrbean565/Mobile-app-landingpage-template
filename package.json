@@ -51,7 +51,7 @@
     "workbox-cli": "^6.3.0"
   },
   "dependencies": {
-    "@midzer/tobii": "^2.3.0",
+    "@midzer/tobii": "^2.5.0",
     "darkmode-js": "^1.5.6",
     "normalize.css": "^8.0.1",
     "producthunt-floating-prompt": "^1.0.8"
